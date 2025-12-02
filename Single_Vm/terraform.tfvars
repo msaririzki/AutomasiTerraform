@@ -1,7 +1,7 @@
 # Proxmox API (contoh)
-Proxmox_api_url          = "https://100.100.10.1:8006/api2/json"
-Proxmox_api_token_id     = "iky..@pam!Terraform"
-Proxmox_api_token_secret = "add10101-1069-4ed4-86fd-8a52e85f0319"
+Proxmox_api_url          = ""
+Proxmox_api_token_id     = ""
+Proxmox_api_token_secret = "9"
 
 # Cloud-Init user
 ci_user     = "root"
