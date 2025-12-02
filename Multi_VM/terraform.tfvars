@@ -1,11 +1,11 @@
 # Proxmox API
-Proxmox_api_url          = "https://100.100.10.1:8006/api2/json"
-Proxmox_api_token_id     = "iky..@pam!Terraform"
-Proxmox_api_token_secret = "add10101-1069-4ed4-86fd-8a52e85f0319"
+Proxmox_api_url          = ""
+Proxmox_api_token_id     = ""
+Proxmox_api_token_secret = ""
 
 # Cloud-Init user (global)
 ci_user     = "demo"
-ci_password = "Ndekutaok230820.."
+ci_password = "."
 # Windows path di mesin yang menjalankan Terraform
 ci_ssh_public_key = "C:/Users/msari/.ssh/proxmox/id_ed25519_proxmox_lab.pub"
 
